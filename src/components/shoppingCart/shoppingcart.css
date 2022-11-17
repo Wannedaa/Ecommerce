@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@500&display=swap');
+h1{
+    font-style: normal;
+    font-family: 'Heebo', sans-serif;
+}
+
+.background{
+    background-color: rgb(26, 26, 26);
+}

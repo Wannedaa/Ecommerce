@@ -1,0 +1,23 @@
+form{
+    width: 35%;
+    background-color: rgba(0, 0, 0, 0);
+    box-shadow: 0px 7px 15px rgb(0, 0, 0);
+    padding: 15px;
+    padding-top: 25px;
+
+    border-radius: 15px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+#boton{
+    padding-top: 20px;
+}
+
+.titl{
+    margin-top: 50px;
+    margin-bottom: 0px;
+}

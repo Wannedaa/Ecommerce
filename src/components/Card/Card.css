@@ -1,0 +1,13 @@
+.img {
+ width: 100px;
+}
+
+.conteiner {
+    display: flex;
+    padding: 15px;
+}
+
+.carta{
+    margin: 15px;
+    box-shadow: 15px 15px 5px rgb(12, 12, 12);;
+} 
